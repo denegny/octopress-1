@@ -4,7 +4,7 @@
   <title><![CDATA[Особиста сторінка Jarto]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-06-10T10:03:40+03:00</updated>
+  <updated>2013-06-10T10:33:56+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -20,7 +20,16 @@
     <id>http://denegny.github.io/blog/2013/06/10/octopress</id>
     <content type="html"><![CDATA[<p>Всем привет.</p>
 
-<p>В первом посту я постараюсь описать как я дошел до такой жизни и начал вести свой блог на Octopress</p>
+<p><span class='pullquote-right' data-pullquote='и начать изучать Ruby'>
+В первом посту я постараюсь описать как я дошел до такой жизни и начал вести свой блог на Octopress.
+Все просто, чтобы начать этим заниматься нужно сделать три вещи:</p>
+
+<blockquote><p>- развестись с женой;<br/>- взять кредит;<br/>- уволиться с работы;</p></blockquote>
+
+
+<p>и начать изучать Ruby
+, а по выходным шпилеть в линейку
+</span></p>
 ]]></content>
   </entry>
   
