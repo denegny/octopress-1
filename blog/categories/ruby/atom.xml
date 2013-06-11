@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Category: Ruby | Особиста сторінка Jarto]]></title>
+  <title><![CDATA[Категория: Ruby | Особиста сторінка Jarto]]></title>
   <link href="http://denegny.github.io/blog/categories/ruby/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-06-10T19:48:21+03:00</updated>
+  <updated>2013-06-11T19:33:25+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
