@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-06-12T11:21:19+03:00</updated>
+  <updated>2013-06-15T10:34:53+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -12,6 +12,29 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Шери]]></title>
+    <link href="http://denegny.github.io/blog/2013/06/15/shieri/"/>
+    <updated>2013-06-15T09:13:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/06/15/shieri</id>
+    <content type="html"><![CDATA[<p><img src="http://basik.ru/images/807/short.jpg"></p>
+
+<p>Была у нас собака</p>
+]]></content>
+  </entry>
+  
+  <entry>
+    <title type="html"><![CDATA[Выступление Владимира Путина на съезде ОНФ]]></title>
+    <link href="http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf/"/>
+    <updated>2013-06-12T15:11:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf</id>
+    <content type="html"><![CDATA[<iframe width="" height="" src="http://www.youtube.com/embed/ryo4i-LK5JY " frameborder="0" webkitAllowFullScreen mozallowfullscreen allowFullScreen></iframe>
+
+
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Совещание {рассказ}]]></title>
