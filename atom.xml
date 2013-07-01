@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-07-02T00:02:58+03:00</updated>
+  <updated>2013-07-02T00:04:24+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,19 +18,9 @@
     <link href="http://denegny.github.io/blog/2013/07/01/liektsii-alieksieia-vasil%27ievicha-kholopova/"/>
     <updated>2013-07-01T18:23:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/07/01/liektsii-alieksieia-vasil&#8217;ievicha-kholopova</id>
-    <content type="html"><![CDATA[<h1>Лекция 1</h1>
+    <content type="html"><![CDATA[<h2>Лекция 1</h2>
 
-<h2>Лекция 1</h2>
-
-<h3>Лекция 1</h3>
-
-<h4>Лекция 1</h4>
-
-<h5>Лекция 1</h5>
-
-<h6>Лекция 1</h6>
-
-<p>Тема лекции: &ldquo;Человек в условиях современной информационной агрессии&rdquo;:</p>
+<h3>Тема лекции: &ldquo;Человек в условиях современной информационной агрессии&rdquo;:</h3>
 
 <ol>
 <li>Понятия, виды и сущность информации. Технологии передачи информации.</li>
