@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: OS | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/os/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-07-01T19:23:37+03:00</updated>
+  <updated>2013-07-01T19:25:25+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,13 +18,29 @@
     <link href="http://denegny.github.io/blog/2013/06/16/moda-na-zielienogho-pinghvina/"/>
     <updated>2013-06-16T20:37:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/06/16/moda-na-zielienogho-pinghvina</id>
-    <content type="html"><![CDATA[<p><img class="right <a" src="href="http://fossforce.com/wp-content/uploads/2013/06/minttux-e1371178336447.png">http://fossforce.com/wp-content/uploads/2013/06/minttux-e1371178336447.png</a>" width="250" height="450"></p>
+    <content type="html"><![CDATA[<p>{% img right <a href="http://fossforce.com/wp-content/uploads/2013/06/minttux-e1371178336447.png">http://fossforce.com/wp-content/uploads/2013/06/minttux-e1371178336447.png</a> 250 450 %}</p>
 
 <p>Давно идут холивары между плодоовощной базой Apple и заводом по изготовлению пластиковых окон Microsoft. Но вот вопрос, почему разработчики iOS не проводит сравнение своей системы с существующими ветками ее кровного брата Linux? Бояться проиграть? ;)</p>
 
 <p>Ну что же не хотят &ndash; это их дело. А вот Linux среди своих дистрибутивов такой рейтинг провел. Возможно вы уже догадались по бледно-зеленому виду нашего пингвина на логотипе этого поста, что у него не морская болезнь, а LinuxMint стал победителем этого холивара. Причем хочу сказать не просто стал, а стал победителем с серьезным отрывом 45%.</p>
 
-<p><blockquote><p>This poll is closed! Poll activity:<br/>start_date 2013-05-20 01:18:32<br/>end_date 2013-06-13 19:48:44<br/>Poll Results:<br/>What Linux distro would you be most likely to recommend to a new Linux user?</p></p><p><ul><br/><li>Linux Mint &ndash; 45% ( 602 votes )</li><br/><li>Ubuntu &ndash; 26% ( 344 votes )</li><br/><li>Other &ndash; 9% ( 123 votes )</li><br/><li>PCLinuxOS &ndash; 6% ( 87 votes )</li><br/><li>openSUSE &ndash; 5% ( 69 votes )</li><br/><li>Mageia/Mandriva &ndash; 4% ( 50 votes )</li><br/><li>Fedora &ndash; 3% ( 44 votes )</li><br/><li>Chrome OS &ndash; 1% ( 20 votes )</p></blockquote></li>
+<p>{% blockquote %}
+This poll is closed! Poll activity:
+start_date 2013-05-20 01:18:32
+end_date 2013-06-13 19:48:44
+Poll Results:
+What Linux distro would you be most likely to recommend to a new Linux user?</p>
+
+<ul>
+<li>Linux Mint &ndash; 45% ( 602 votes )</li>
+<li>Ubuntu &ndash; 26% ( 344 votes )</li>
+<li>Other &ndash; 9% ( 123 votes )</li>
+<li>PCLinuxOS &ndash; 6% ( 87 votes )</li>
+<li>openSUSE &ndash; 5% ( 69 votes )</li>
+<li>Mageia/Mandriva &ndash; 4% ( 50 votes )</li>
+<li>Fedora &ndash; 3% ( 44 votes )</li>
+<li>Chrome OS &ndash; 1% ( 20 votes )
+{% endblockquote %}</li>
 </ul>
 
 
