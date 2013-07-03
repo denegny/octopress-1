@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: Жизнь | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/zhizn'/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-07-03T20:21:31+03:00</updated>
+  <updated>2013-07-03T20:21:57+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,7 +18,7 @@
     <link href="http://denegny.github.io/blog/2013/06/15/shieri/"/>
     <updated>2013-06-15T09:13:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/06/15/shieri</id>
-    <content type="html"><![CDATA[<p><img class="right <a" src="href="http://basik.ru/images/807/short.jpg">http://basik.ru/images/807/short.jpg</a>" width="350" height="550"></p>
+    <content type="html"><![CDATA[<p>{% img right <a href="http://basik.ru/images/807/short.jpg">http://basik.ru/images/807/short.jpg</a> 350 550 %}</p>
 
 <p>У многих есть домашние животные, беспорно мы их всех очень любим, некоторых до &ndash; некоторых после. И тут вопрос даже не в самих животных, а скорее в их хозяевах   .</p>
 
