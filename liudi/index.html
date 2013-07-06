@@ -9,9 +9,7 @@
   <meta name="author" content="Jarto">
 
   
-  <meta name="description" content="Интересные люди Среда, 3 Июля 2013 simple collapsible … Виктор Алексеевич Ефимов Дата рождения:
-18 мая 1948 (65 лет)
-Место рождения: Псковская &hellip;">
+  <meta name="description" content="Интересные люди Среда, 3 Июля 2013 Collapsible Group Item #1 Anim pariatur cliche&#8230; Collapsible Group Item #2 Anim pariatur cliche&#8230; &hellip;">
   
 
   <!-- http://t.co/dKP3o1e -->
@@ -121,7 +119,35 @@
 <time datetime="2013-07-03T19:16:00+03:00" pubdate data-updated="true">Среда,  3 Июля 2013</time></p>
   </header>
   
-  <p><button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#demo">
+  <div class="accordion" id="accordion2">
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseOne">
+        Collapsible Group Item #1
+      </a>
+    </div>
+    <div id="collapseOne" class="accordion-body collapse in">
+      <div class="accordion-inner">
+        Anim pariatur cliche&#8230;
+      </div>
+    </div>
+  </div>
+  <div class="accordion-group">
+    <div class="accordion-heading">
+      <a class="accordion-toggle" data-toggle="collapse" data-parent="#accordion2" href="#collapseTwo">
+        Collapsible Group Item #2
+      </a>
+    </div>
+    <div id="collapseTwo" class="accordion-body collapse">
+      <div class="accordion-inner">
+        Anim pariatur cliche&#8230;
+      </div>
+    </div>
+  </div>
+</div>
+
+
+<p><button type="button" class="btn btn-danger" data-toggle="collapse" data-target="#demo">
   simple collapsible
 </button></p>
 
