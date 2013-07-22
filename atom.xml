@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-07-23T01:53:52+03:00</updated>
+  <updated>2013-07-23T02:06:38+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -107,7 +107,7 @@
     <link href="http://denegny.github.io/blog/2013/06/16/nlo-v-priamom-efirie-rt/"/>
     <updated>2013-06-16T17:01:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/06/16/nlo-v-priamom-efirie-rt</id>
-    <content type="html"><![CDATA[<p>&ldquo;<a href="https://www.youtube.com/embed/P6cRv_X4yLE">https://www.youtube.com/embed/P6cRv_X4yLE</a> ?feature=player_embedded&rdquo;</p>
+    <content type="html"><![CDATA[<p>&lt;width=&ldquo;&rdquo; height=&ldquo;&rdquo; src=&ldquo;<a href="https://www.youtube.com/embed/P6cRv_X4yLE">https://www.youtube.com/embed/P6cRv_X4yLE</a> ?feature=player_embedded&rdquo; frameborder=&ldquo;0&rdquo; allowfullscreen></p>
 
 <p>В небе Лондона НЛО, куда смотрит королевское ПВО, я не знаю&hellip;</p>
 ]]></content>
@@ -133,7 +133,7 @@
     <link href="http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf/"/>
     <updated>2013-06-12T15:11:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf</id>
-    <content type="html"><![CDATA[<p>&ldquo;<a href="https://www.youtube.com/embed/sGRwH5mbAWU?feature=player_embedded">https://www.youtube.com/embed/sGRwH5mbAWU?feature=player_embedded</a>&rdquo;</p>
+    <content type="html"><![CDATA[<p>&lt;width=&ldquo;&rdquo; height=&ldquo;&rdquo; src=&ldquo;<a href="https://www.youtube.com/embed/sGRwH5mbAWU?feature=player_embedded">https://www.youtube.com/embed/sGRwH5mbAWU?feature=player_embedded</a>&rdquo; frameborder=&ldquo;0&rdquo; allowfullscreen></p>
 
 <p>Началось.</p>
 
