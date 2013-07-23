@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: Heroku | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/heroku/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-07-23T07:50:33+03:00</updated>
+  <updated>2013-07-23T07:50:56+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -20,21 +20,7 @@
     <id>http://denegny.github.io/blog/2013/06/10/octopress</id>
     <content type="html"><![CDATA[<p>Всем привет.</p>
 
-<p>{% pullquote %}</p>
-
-<p>{% img right <a href="http://gracca.github.io/images/octopress_github.png">http://gracca.github.io/images/octopress_github.png</a> 200 300 %}</p>
-
-<p>В первом посту я постараюсь описать как я дошел до такой жизни, что начал вести свой блог на Octopress.
-Все просто, чтобы начать этим заниматься нужно сделать три вещи:
-{% blockquote %}
-&ndash; развестись с женой;
-&ndash; взять кредит;
-&ndash; уволиться с работы;
-{% endblockquote %}
-&hellip;и {&ldquo;начать изучать Ruby&rdquo;}, а по выходным шпилить в линейку.</p>
-
-<p>А дальше все сделать по инструкции: <a href="http://neverstopbuilding.net/how-to-create-a-blog-with-octopress-on-heroku">http://neverstopbuilding.net/how-to-create-a-blog-with-octopress-on-heroku</a>
-{% endpullquote %}</p>
+<p>Surround your pullquote like this {" text to be quoted "}</p>
 ]]></content>
   </entry>
   
