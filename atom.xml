@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-07-23T20:47:55+03:00</updated>
+  <updated>2013-07-25T17:13:29+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[Пяти дюймовый оркест с четвертью]]></title>
+    <link href="http://denegny.github.io/blog/2013/07/25/piati-diuimovyi-orkiest-s-chietviert%27iu/"/>
+    <updated>2013-07-25T17:07:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/07/25/piati-diuimovyi-orkiest-s-chietviert&#8217;iu</id>
+    <content type="html"><![CDATA[<iframe width="640" height="360" src="http://www.youtube.com/embed/LgfPYetWWJw" frameborder="0"allowfullscreen></iframe>
+
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Лекции Алексея Васильевича Холопова]]></title>

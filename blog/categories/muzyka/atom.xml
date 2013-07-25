@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: Музыка | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/muzyka/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-07-25T17:12:15+03:00</updated>
+  <updated>2013-07-25T17:13:29+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,7 +18,7 @@
     <link href="http://denegny.github.io/blog/2013/07/25/piati-diuimovyi-orkiest-s-chietviert%27iu/"/>
     <updated>2013-07-25T17:07:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/07/25/piati-diuimovyi-orkiest-s-chietviert'iu</id>
-    <content type="html"><![CDATA[<p>{% youtobe LgfPYetWWJw %}</p>
+    <content type="html"><![CDATA[<p><iframe width="640" height="360" src="http://www.youtube.com/embed/LgfPYetWWJw" frameborder="0"allowfullscreen></iframe></p>
 ]]></content>
   </entry>
   
