@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Категория: Музыка | Jarto - Особиста сторінка]]></title>
+  <link href="http://denegny.github.io/blog/categories/muzyka/atom.xml" rel="self"/>
+  <link href="http://denegny.github.io/"/>
+  <updated>2013-07-25T17:09:40+03:00</updated>
+  <id>http://denegny.github.io/</id>
+  <author>
+    <name><![CDATA[Jarto]]></name>
+    <email><![CDATA[denegny@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Пяти дюймовый оркест с четвертью]]></title>
+    <link href="http://denegny.github.io/blog/2013/07/25/piati-diuimovyi-orkiest-s-chietviert%27iu/"/>
+    <updated>2013-07-25T17:07:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/07/25/piati-diuimovyi-orkiest-s-chietviert'iu</id>
+    <content type="html"><![CDATA[<p>{% youtobe LgfPYetWWJw %}</p>
+]]></content>
+  </entry>
+  
+</feed>
