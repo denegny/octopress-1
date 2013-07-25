@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-07-25T17:37:53+03:00</updated>
+  <updated>2013-07-25T17:41:51+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -14,11 +14,13 @@
 
   
   <entry>
-    <title type="html"><![CDATA[Сноуден]]></title>
-    <link href="http://denegny.github.io/blog/2013/07/25/snoudien/"/>
-    <updated>2013-07-25T17:35:00+03:00</updated>
-    <id>http://denegny.github.io/blog/2013/07/25/snoudien</id>
+    <title type="html"><![CDATA[Сноуден - выйди вон]]></title>
+    <link href="http://denegny.github.io/blog/2013/07/25/snoudien-vyidi-von/"/>
+    <updated>2013-07-25T17:41:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/07/25/snoudien-vyidi-von</id>
     <content type="html"><![CDATA[<p><img class="right img-rounded" src="http://img.gazeta.ru/files3/925/5377925/tag_reuters.com_0000_binary_GM1E96A0BYY01-BASEIMAGE-pic4_zoom-1000x1000-69972.jpg" width="350" height="550"></p>
+
+<p>Сноуден</p>
 ]]></content>
   </entry>
   
