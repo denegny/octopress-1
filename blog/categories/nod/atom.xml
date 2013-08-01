@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: НОД | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/nod/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-01T04:59:56+03:00</updated>
+  <updated>2013-08-01T05:00:56+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,7 +18,7 @@
     <link href="http://denegny.github.io/blog/2013/08/01/gidropodryv-ianukovicha/"/>
     <updated>2013-08-01T03:57:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/08/01/gidropodryv-ianukovicha</id>
-    <content type="html"><![CDATA[<p>{%  img right img-rounded <a href="http://cs403022.vk.me/v403022109/6291/2r8A_8yXt64.jpg">http://cs403022.vk.me/v403022109/6291/2r8A_8yXt64.jpg</a> %}</p>
+    <content type="html"><![CDATA[<p><img class="right img-rounded <a" src="href="http://cs403022.vk.me/v403022109/6291/2r8A_8yXt64.jpg">http://cs403022.vk.me/v403022109/6291/2r8A_8yXt64.jpg</a>"></p>
 
 <p>Фракинг &ndash; новое слово пришедшее в наш лексикон вместе с компаниями Shell и Chevron</p>
 ]]></content>
@@ -29,7 +29,7 @@
     <link href="http://denegny.github.io/blog/2013/07/26/boria-proshchai/"/>
     <updated>2013-07-26T18:37:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/07/26/boria-proshchai</id>
-    <content type="html"><![CDATA[<p>{%  img left img-rounded <a href="http://s0.tchkcdn.com/g2-Jz5i1KWQ7JKq_VoPoyObDw/news/400x302/f/0/1/4/9/2/7492/kolesnikov4.jpg">http://s0.tchkcdn.com/g2-Jz5i1KWQ7JKq_VoPoyObDw/news/400x302/f/0/1/4/9/2/7492/kolesnikov4.jpg</a> 350 550 %}</p>
+    <content type="html"><![CDATA[<p><img class="left img-rounded <a" src="href="http://s0.tchkcdn.com/g2-Jz5i1KWQ7JKq_VoPoyObDw/news/400x302/f/0/1/4/9/2/7492/kolesnikov4.jpg">http://s0.tchkcdn.com/g2-Jz5i1KWQ7JKq_VoPoyObDw/news/400x302/f/0/1/4/9/2/7492/kolesnikov4.jpg</a>" width="350" height="550"></p>
 
 <p>Вот, Боря, ты и допрыгался.</p>
 
@@ -42,7 +42,7 @@
     <link href="http://denegny.github.io/blog/2013/07/25/snoudien-vyidi-von/"/>
     <updated>2013-07-25T17:41:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/07/25/snoudien-vyidi-von</id>
-    <content type="html"><![CDATA[<p>{% img right img-rounded <a href="http://megogo.net/s/data/poster/6/5:15836.jpg">http://megogo.net/s/data/poster/6/5:15836.jpg</a> 350 550 %}</p>
+    <content type="html"><![CDATA[<p><img class="right img-rounded <a" src="href="http://megogo.net/s/data/poster/6/5:15836.jpg">http://megogo.net/s/data/poster/6/5:15836.jpg</a>" width="350" height="550"></p>
 
 <p>Перефразировав название культового фильма, давайте попробуем разобраться, кто же такой Эдвард Сноуден, какая роль ему отведена и как манипулируют нашим сознанием.</p>
 
@@ -70,11 +70,7 @@
 
 <p>А какая роль Украины в этой игре? А такая же как и Сноудена, молча занимать клетку на шахматной доске и ждать руки сверху.</p>
 
-<p>{% blockquote %}</p>
-
-<p>Выводы очевидны, просыпайтесь, расширяйте свое миропонимание за пределы шахматной доски, человек рожден для других целей, а не для того чтобы быть фигурой не важно какого масштаба в руках незримого кукловода или как говорят господа экономические деятели &ldquo;незримой руки рынка&rdquo; ))).</p>
-
-<p>{% endblockquote %}</p>
+<p><blockquote><p></p></p><p><p>Выводы очевидны, просыпайтесь, расширяйте свое миропонимание за пределы шахматной доски, человек рожден для других целей, а не для того чтобы быть фигурой не важно какого масштаба в руках незримого кукловода или как говорят господа экономические деятели &ldquo;незримой руки рынка&rdquo; ))).</p></p><p><p></p></blockquote></p>
 ]]></content>
   </entry>
   
@@ -83,7 +79,7 @@
     <link href="http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf/"/>
     <updated>2013-06-12T15:11:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf</id>
-    <content type="html"><![CDATA[<p>{% youtube sGRwH5mbAWU%}</p>
+    <content type="html"><![CDATA[<p><iframe width="640" height="360" src="http://www.youtube.com/embed/sGRwH5mbAWU" frameborder="0"allowfullscreen></iframe></p>
 
 <p>Началось.</p>
 
