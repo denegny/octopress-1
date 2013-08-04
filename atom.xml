@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-04T04:54:14+03:00</updated>
+  <updated>2013-08-04T04:55:05+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,8 +18,10 @@
     <link href="http://denegny.github.io/blog/2013/08/04/ia-ghorzhus%27-stranoi-v-kotoroi-rodilsia/"/>
     <updated>2013-08-04T00:02:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/08/04/ia-ghorzhus&#8217;-stranoi-v-kotoroi-rodilsia</id>
-    <content type="html"><![CDATA[<p>Раньше у меня были слезы радости, а теперь слезы обиды
-&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/AJBT6dZWz6s" frameborder="0"allowfullscreen></iframe>></div></p>
+    <content type="html"><![CDATA[<p>Раньше у меня были слезы радости, а теперь слезы обиды</p>
+
+<div><iframe width="640" height="360" src="http://www.youtube.com/embed/AJBT6dZWz6s" frameborder="0"allowfullscreen></iframe></div>
+
 ]]></content>
   </entry>
   
@@ -69,7 +71,8 @@
     <link href="http://denegny.github.io/blog/2013/07/27/o-zavisimosti/"/>
     <updated>2013-07-27T19:11:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/07/27/o-zavisimosti</id>
-    <content type="html"><![CDATA[<p>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/vICNncSKsBk" frameborder="0"allowfullscreen></iframe>></div></p>
+    <content type="html"><![CDATA[<div><iframe width="640" height="360" src="http://www.youtube.com/embed/vICNncSKsBk" frameborder="0"allowfullscreen></iframe></div>
+
 ]]></content>
   </entry>
   
@@ -78,7 +81,8 @@
     <link href="http://denegny.github.io/blog/2013/07/26/limbo-style/"/>
     <updated>2013-07-26T22:22:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/07/26/limbo-style</id>
-    <content type="html"><![CDATA[<p>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/t0Htl8v-E9w" frameborder="0"allowfullscreen></iframe>></div></p>
+    <content type="html"><![CDATA[<div><iframe width="640" height="360" src="http://www.youtube.com/embed/t0Htl8v-E9w" frameborder="0"allowfullscreen></iframe></div>
+
 
 <p>Кто не играл, сравните <a href="http://limbogame.org/">http://limbogame.org/</a></p>
 ]]></content>
@@ -140,13 +144,15 @@
     <link href="http://denegny.github.io/blog/2013/07/25/piati-diuimovyi-orkiest-s-chietviert%27iu/"/>
     <updated>2013-07-25T17:07:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/07/25/piati-diuimovyi-orkiest-s-chietviert&#8217;iu</id>
-    <content type="html"><![CDATA[<p>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/LgfPYetWWJw" frameborder="0"allowfullscreen></iframe>></div></p>
+    <content type="html"><![CDATA[<div><iframe width="640" height="360" src="http://www.youtube.com/embed/LgfPYetWWJw" frameborder="0"allowfullscreen></iframe></div>
+
 
 <p>Вообще MrSolidSnake745 интересный товарищЪ, начал с пяти у частников и закончил таким шедевром в исполнении восьми солистов и стереорежимом, такое мог сделать только русский человек</p>
 
 <p>Вот чтобы понять всю шедевральность, та же композиция в исполнении скрипача</p>
 
-<p>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/1yydcG9woWA" frameborder="0"allowfullscreen></iframe>></div></p>
+<div><iframe width="640" height="360" src="http://www.youtube.com/embed/1yydcG9woWA" frameborder="0"allowfullscreen></iframe></div>
+
 ]]></content>
   </entry>
   
@@ -171,7 +177,10 @@
 
 <p><a href="http://pycode.ru/2012/10/infw/">http://pycode.ru/2012/10/infw/</a></p>
 
-<h2>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/1B_5t656d4M" frameborder="0"allowfullscreen></iframe>></div></h2>
+<div><iframe width="640" height="360" src="http://www.youtube.com/embed/1B_5t656d4M" frameborder="0"allowfullscreen></iframe></div>
+
+
+<hr />
 
 <h2>Лекция 2</h2>
 
@@ -187,7 +196,10 @@
 
 <p><a href="http://pycode.ru/2012/11/holopov2/">http://pycode.ru/2012/11/holopov2/</a></p>
 
-<h2>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/zsTay5MZz4U" frameborder="0"allowfullscreen></iframe>></div></h2>
+<div><iframe width="640" height="360" src="http://www.youtube.com/embed/zsTay5MZz4U" frameborder="0"allowfullscreen></iframe></div>
+
+
+<hr />
 
 <h2>Лекция 3</h2>
 
@@ -195,7 +207,10 @@
 
 <p><a href="http://pycode.ru">http://pycode.ru</a></p>
 
-<h2>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/cmkisnUuZ3U" frameborder="0"allowfullscreen></iframe>></div></h2>
+<div><iframe width="640" height="360" src="http://www.youtube.com/embed/cmkisnUuZ3U" frameborder="0"allowfullscreen></iframe></div>
+
+
+<hr />
 
 <h2>Лекция 4</h2>
 
@@ -203,7 +218,8 @@
 
 <p><a href="http://pycode.ru/">http://pycode.ru/</a></p>
 
-<p>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/CDVaMWCJbxo" frameborder="0"allowfullscreen></iframe>></div></p>
+<div><iframe width="640" height="360" src="http://www.youtube.com/embed/CDVaMWCJbxo" frameborder="0"allowfullscreen></iframe></div>
+
 ]]></content>
   </entry>
   
@@ -234,7 +250,8 @@
     <link href="http://denegny.github.io/blog/2013/06/16/nlo-v-priamom-efirie-rt/"/>
     <updated>2013-06-16T17:01:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/06/16/nlo-v-priamom-efirie-rt</id>
-    <content type="html"><![CDATA[<p>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/P6cRv_X4yLE" frameborder="0"allowfullscreen></iframe>></div></p>
+    <content type="html"><![CDATA[<div><iframe width="640" height="360" src="http://www.youtube.com/embed/P6cRv_X4yLE" frameborder="0"allowfullscreen></iframe></div>
+
 
 <p>В небе Лондона НЛО, куда смотрит королевское ПВО, я не знаю&hellip;</p>
 ]]></content>
@@ -260,7 +277,8 @@
     <link href="http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf/"/>
     <updated>2013-06-12T15:11:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf</id>
-    <content type="html"><![CDATA[<p>&lt;div<iframe width="640" height="360" src="http://www.youtube.com/embed/sGRwH5mbAWU" frameborder="0"allowfullscreen></iframe>></div></p>
+    <content type="html"><![CDATA[<div><iframe width="640" height="360" src="http://www.youtube.com/embed/sGRwH5mbAWU" frameborder="0"allowfullscreen></iframe></div>
+
 
 <p>Началось.</p>
 
