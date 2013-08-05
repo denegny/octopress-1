@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Категория: История | Jarto - Особиста сторінка]]></title>
+  <link href="http://denegny.github.io/blog/categories/istoriia/atom.xml" rel="self"/>
+  <link href="http://denegny.github.io/"/>
+  <updated>2013-08-05T03:12:52+03:00</updated>
+  <id>http://denegny.github.io/</id>
+  <author>
+    <name><![CDATA[Jarto]]></name>
+    <email><![CDATA[denegny@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Народно-освободительное движение в искусстве]]></title>
+    <link href="http://denegny.github.io/blog/2013/08/05/narodno-osvoboditiel%27noie-dvizhieniie-v-iskusstvie/"/>
+    <updated>2013-08-05T03:12:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/08/05/narodno-osvoboditiel'noie-dvizhieniie-v-iskusstvie</id>
+    <content type="html"><![CDATA[
+]]></content>
+  </entry>
+  
+</feed>
