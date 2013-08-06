@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-06T11:33:31+03:00</updated>
+  <updated>2013-08-06T11:34:09+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,9 +18,9 @@
     <link href="http://denegny.github.io/blog/2013/08/06/pochiemu-vietrienko-nie-putin/"/>
     <updated>2013-08-06T11:28:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/08/06/pochiemu-vietrienko-nie-putin</id>
-    <content type="html"><![CDATA[<p><img class="left img-rounded" src="http://hoboctu.com/templates/images//1238182270_1.jpg" width="250" height="450"></p>
+    <content type="html"><![CDATA[<p><img class="left img-rounded" src="http://hoboctu.com/templates/images//1238182270_1.jpg" width="200" height="400"></p>
 
-<p><img class="left img-rounded" src="http://news.kremlin.ru/media/events/photos/medium/41d3e9385e62fa61d26d.jpeg" width="250" height="450"></p>
+<p><img class="left img-rounded" src="http://news.kremlin.ru/media/events/photos/medium/41d3e9385e62fa61d26d.jpeg" width="200" height="400"></p>
 ]]></content>
   </entry>
   
