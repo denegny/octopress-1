@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: Инструкция | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/instruktsiia/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-14T14:22:35+03:00</updated>
+  <updated>2013-08-14T14:23:28+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -29,9 +29,9 @@
 <p>Заполняете:</p>
 
 <ol>
-<li>`Адресс сервера: jarto.pp.ua</li>
-<li>`Логин (можно не ставить, тогда сервер вам сам обзовет каким-то нехорошим именем, а лучше прописать свое реальное имя, чтобы мы знали ху из ху)</li>
-<li>`Пароль &ndash; не заполняется</li>
+<li><code>Адрес сервера</code>: jarto.pp.ua</li>
+<li><code>Логин</code>: (можно не ставить, тогда сервер вам сам обзовет каким-то нехорошим именем, а лучше прописать свое реальное имя, чтобы мы знали ху из ху)</li>
+<li><code>Пароль</code> &ndash; не заполняется</li>
 </ol>
 
 
