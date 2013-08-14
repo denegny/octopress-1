@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: СССР | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/sssr/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-14T23:25:00+03:00</updated>
+  <updated>2013-08-15T00:44:04+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -19,7 +19,7 @@
     <updated>2013-08-04T00:02:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/08/04/ia-ghorzhus'-stranoi-v-kotoroi-rodilsia</id>
     <content type="html"><![CDATA[<p>Раньше у меня были слезы радости, а теперь слезы обиды
-<iframe width="640" height="360" src="http://www.youtube.com/embed/AJBT6dZWz6s" frameborder="0"allowfullscreen></iframe></p>
+{% youtube AJBT6dZWz6s %}</p>
 ]]></content>
   </entry>
   
