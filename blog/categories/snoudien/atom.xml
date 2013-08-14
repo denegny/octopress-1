@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: Сноуден | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/snoudien/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-15T00:50:36+03:00</updated>
+  <updated>2013-08-15T00:51:07+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,7 +18,7 @@
     <link href="http://denegny.github.io/blog/2013/07/25/snoudien-vyidi-von/"/>
     <updated>2013-07-25T17:41:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/07/25/snoudien-vyidi-von</id>
-    <content type="html"><![CDATA[<p>{% img right img-rounded <a href="http://megogo.net/s/data/poster/6/5:15836.jpg">http://megogo.net/s/data/poster/6/5:15836.jpg</a> 350 550 %}</p>
+    <content type="html"><![CDATA[<p><img class="right img-rounded <a" src="href="http://megogo.net/s/data/poster/6/5:15836.jpg">http://megogo.net/s/data/poster/6/5:15836.jpg</a>" width="350" height="550"></p>
 
 <p>Перефразировав название культового фильма, давайте попробуем разобраться, кто же такой Эдвард Сноуден, какая роль ему отведена и как манипулируют нашим сознанием.</p>
 
@@ -46,11 +46,7 @@
 
 <p>А какая роль Украины в этой игре? А такая же как и Сноудена, молча занимать клетку на шахматной доске и ждать руки сверху.</p>
 
-<p>{% blockquote %}</p>
-
-<p>Выводы очевидны, просыпайтесь, расширяйте свое миропонимание за пределы шахматной доски, человек рожден для других целей, а не для того чтобы быть фигурой не важно какого масштаба в руках незримого кукловода или как говорят господа экономические деятели &ldquo;незримой руки рынка&rdquo; ))).</p>
-
-<p>{% endblockquote %}</p>
+<p><blockquote><p></p></p><p><p>Выводы очевидны, просыпайтесь, расширяйте свое миропонимание за пределы шахматной доски, человек рожден для других целей, а не для того чтобы быть фигурой не важно какого масштаба в руках незримого кукловода или как говорят господа экономические деятели &ldquo;незримой руки рынка&rdquo; ))).</p></p><p><p></p></blockquote></p>
 ]]></content>
   </entry>
   

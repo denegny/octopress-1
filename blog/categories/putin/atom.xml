@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: Путин | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/putin/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-15T00:50:36+03:00</updated>
+  <updated>2013-08-15T00:51:07+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,15 +18,15 @@
     <link href="http://denegny.github.io/blog/2013/08/06/pochiemu-vitrienko-nie-putin/"/>
     <updated>2013-08-06T13:09:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/08/06/pochiemu-vitrienko-nie-putin</id>
-    <content type="html"><![CDATA[<p>{%  img left img-rounded <a href="http://hoboctu.com/templates/images//1238182270_1.jpg">http://hoboctu.com/templates/images//1238182270_1.jpg</a> 200 400 %}</p>
+    <content type="html"><![CDATA[<p><img class="left img-rounded <a" src="href="http://hoboctu.com/templates/images//1238182270_1.jpg">http://hoboctu.com/templates/images//1238182270_1.jpg</a>" width="200" height="400"></p>
 
-<p>{%  img left img-rounded <a href="http://news.kremlin.ru/media/events/photos/medium/41d3e9385e62fa61d26d.jpeg">http://news.kremlin.ru/media/events/photos/medium/41d3e9385e62fa61d26d.jpeg</a> 200 400 %}</p>
+<p><img class="left img-rounded <a" src="href="http://news.kremlin.ru/media/events/photos/medium/41d3e9385e62fa61d26d.jpeg">http://news.kremlin.ru/media/events/photos/medium/41d3e9385e62fa61d26d.jpeg</a>" width="200" height="400"></p>
 
 <p>Личность Натальи Витренко на украинском политикуме вызывает не однозначное восприятие в Украине. Например как личность Владимира Путина более чем однозначно воспринимается в России, и чтобы не говорили и не писали о Путине ясно одно, его любит и поддерживает подавляющее большинство патриотов и сторонников России, а обливают грязью и ненавидят те кто пытается Россию уничтожить. Но давайте разбираемся, почему такой поддержки нет у Натальи Витренко, и почему пользуется такой поддержкой Владимир Путин.</p>
 
 <p>Начнем мы с общего, каким должен быть общенациональный лидер, какими качествами должен обладать.</p>
 
-<p>Во-первых, {% pullquote %} это должен быть человек образованный {% endpullquote %}. Бесспорно и Наталья Михайловна и Владимир Владимирович таковыми людьми являются. На перечисление научных заслуг Натальи Витренко вообще может уйти половина поста, скажем кратко, что она является доктором экономических наук и академиком трех академий. Отлично, у обоих наших людей все это есть, идем дальше.</p>
+<p>Во-первых, Surround your pullquote like this {" text to be quoted "}. Бесспорно и Наталья Михайловна и Владимир Владимирович таковыми людьми являются. На перечисление научных заслуг Натальи Витренко вообще может уйти половина поста, скажем кратко, что она является доктором экономических наук и академиком трех академий. Отлично, у обоих наших людей все это есть, идем дальше.</p>
 
 <p>Во-вторых, этот человек должен обладать опытом политической деятельности, должен поработать и повариться в политической кухне не один год. Оба наших человечка прошли на этом поприще Крым, Рым и Медные Трубы. Ставим еще по плюсику каждому и идем дальше.</p>
 
@@ -55,7 +55,7 @@
     <link href="http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf/"/>
     <updated>2013-06-12T15:11:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/06/12/vystuplieniie-vladimira-putina-na-siezdie-onf</id>
-    <content type="html"><![CDATA[<p>{% youtube sGRwH5mbAWU%}</p>
+    <content type="html"><![CDATA[<p><iframe width="640" height="360" src="http://www.youtube.com/embed/sGRwH5mbAWU" frameborder="0"allowfullscreen></iframe></p>
 
 <p>Началось.</p>
 
