@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Категория: TeamSpeak | Jarto - Особиста сторінка]]></title>
+  <link href="http://denegny.github.io/blog/categories/teamspeak/atom.xml" rel="self"/>
+  <link href="http://denegny.github.io/"/>
+  <updated>2013-08-14T14:08:40+03:00</updated>
+  <id>http://denegny.github.io/</id>
+  <author>
+    <name><![CDATA[Jarto]]></name>
+    <email><![CDATA[denegny@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Посиделки в моем TeamSpeak]]></title>
+    <link href="http://denegny.github.io/blog/2013/08/14/posidielki-v-moiem-teamspeak/"/>
+    <updated>2013-08-14T13:58:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/08/14/posidielki-v-moiem-teamspeak</id>
+    <content type="html"><![CDATA[<p>Всем привет.</p>
+
+<p>У нас открыта новая промо-акция, каждую пятницу в 21.00 мы собираемся отпеть заупокойную песню Госдепу США и помахать кадилом над территорией Украины.</p>
+
+<p>Для того чтобы присоединиться к акции вам нужно одеть праздничную одежду, сесть за компьютер, который предворительно подключен к интернету и установить приложение для мантр TeamSpeak3 <link rel="alternate" href="http://www.teamspeak.com/?page=downloads"></p>
+]]></content>
+  </entry>
+  
+</feed>
