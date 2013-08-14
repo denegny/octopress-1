@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Категория: RT | Jarto - Особиста сторінка]]></title>
+  <link href="http://denegny.github.io/blog/categories/rt/atom.xml" rel="self"/>
+  <link href="http://denegny.github.io/"/>
+  <updated>2013-08-15T02:10:46+03:00</updated>
+  <id>http://denegny.github.io/</id>
+  <author>
+    <name><![CDATA[Jarto]]></name>
+    <email><![CDATA[denegny@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[НЛО в прямом эфире RT]]></title>
+    <link href="http://denegny.github.io/blog/2013/06/16/nlo-v-priamom-efirie-rt/"/>
+    <updated>2013-06-16T17:01:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/06/16/nlo-v-priamom-efirie-rt</id>
+    <content type="html"><![CDATA[<p><iframe width="640" height="360" src="http://www.youtube.com/embed/P6cRv_X4yLE" frameborder="0"allowfullscreen></iframe></p>
+
+<p>В небе Лондона НЛО, куда смотрит королевское ПВО, я не знаю&hellip;</p>
+]]></content>
+  </entry>
+  
+</feed>
