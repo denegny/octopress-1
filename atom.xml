@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-15T08:46:41+03:00</updated>
+  <updated>2013-08-15T08:47:11+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -736,8 +736,8 @@
 <p>&hellip;и начать изучать Ruby, а по выходным шпилить в линейку.</p>
 
 <p>А дальше все сделать по инструкции:
-* <a href="http://neverstopbuilding.net/how-to-create-a-blog-with-octopress-on-heroku" title="разворачивание блога Octopress на Heroku">Heroku</a>
-* <a href="http://gambala.github.io/blog/2012/11/06/octopress/" title="разворачивание блога Octopress на GitHub Pages">GitHub Pages</a></p>
+<em><a href="http://neverstopbuilding.net/how-to-create-a-blog-with-octopress-on-heroku" title="разворачивание блога Octopress на Heroku">Heroku</a>
+</em><a href="http://gambala.github.io/blog/2012/11/06/octopress/" title="разворачивание блога Octopress на GitHub Pages">GitHub Pages</a></p>
 
 <p></span></p>
 ]]></content>
