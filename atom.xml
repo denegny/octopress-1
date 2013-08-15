@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-15T08:17:54+03:00</updated>
+  <updated>2013-08-15T08:30:35+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -18,7 +18,9 @@
     <link href="http://denegny.github.io/blog/2013/08/14/posidielki-v-moiem-teamspeak/"/>
     <updated>2013-08-14T13:58:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/08/14/posidielki-v-moiem-teamspeak</id>
-    <content type="html"><![CDATA[<p>Всем привет.</p>
+    <content type="html"><![CDATA[<p><strong>В большом тексте</strong> удобно вставлять ссылки [сносками][1] как в книгах:</p>
+
+<p>Всем привет.</p>
 
 <p><span class='pullquote-right' data-pullquote='каждую пятницу в 21.00'></p>
 
