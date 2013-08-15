@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-15T08:36:27+03:00</updated>
+  <updated>2013-08-15T08:37:42+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -26,7 +26,7 @@
 
 <p></span></p>
 
-<p>Для того чтобы присоединиться к акции вам нужно одеть праздничную одежду, сесть за компьютер, который предворительно подключен к интернету и установить приложение для мантр <a href="http://www.teamspeak.com/?page=downloads">TeamSpeak3</a></p>
+<p>Для того чтобы присоединиться к акции вам нужно одеть праздничную одежду, сесть за компьютер, который предворительно подключен к интернету и установить приложение для мантр <a href="http://www.teamspeak.com/?page=downloads" title="TeamSpeak3 загрузка">TeamSpeak3</a></p>
 
 <p><img class="right img-rounded" src="http://joxi.ru/uploads/prod/20130814/e55/3d3/1a2f6b3ff27dd84ac71cc946ee07f0b79aa6a75b.jpg"></p>
 
@@ -43,6 +43,10 @@
 
 <blockquote><p>Также на джабер сервере jabber.ru существует конференция НОД Украина (ukrNOD@conference.jabber.ru), где вы можете свободно общаться 24/7 на любые волнующие вас темы с участниками НОД</p></blockquote>
 
+
+<p><strong>В большом тексте</strong> удобно вставлять ссылки <a href="http://www.teamspeak.com/?page=downloads" title="TeamSpeak3 загрузка">сносками</a> как в книгах:</p>
+
+<hr />
 ]]></content>
   </entry>
   
