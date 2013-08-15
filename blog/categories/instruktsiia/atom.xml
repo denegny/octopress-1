@@ -4,7 +4,7 @@
   <title><![CDATA[Категория: Инструкция | Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/blog/categories/instruktsiia/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-15T10:00:42+03:00</updated>
+  <updated>2013-08-15T23:59:56+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -20,15 +20,11 @@
     <id>http://denegny.github.io/blog/2013/08/14/posidielki-v-moiem-teamspeak</id>
     <content type="html"><![CDATA[<p>Всем привет.</p>
 
-<p>{% pullquote %}</p>
-
-<p>У нас открыта новая промо-акция, {&ldquo; каждую пятницу в 21.00 &rdquo;} мы собираемся отпеть заупокойную песню Госдепу США и помахать кадилом над территорией Украины.</p>
-
-<p>{% endpullquote %}</p>
+<p>Surround your pullquote like this {" text to be quoted "}</p>
 
 <p>Для того чтобы присоединиться к акции вам нужно одеть праздничную одежду, сесть за компьютер, который предворительно подключен к интернету и установить приложение для мантр <a href="http://www.teamspeak.com/?page=downloads" title="загрузить TeamSpeak3">TeamSpeak3</a></p>
 
-<p>{% img right img-rounded <a href="http://joxi.ru/uploads/prod/20130814/e55/3d3/1a2f6b3ff27dd84ac71cc946ee07f0b79aa6a75b.jpg">http://joxi.ru/uploads/prod/20130814/e55/3d3/1a2f6b3ff27dd84ac71cc946ee07f0b79aa6a75b.jpg</a> %}</p>
+<p><img class="right img-rounded <a" src="href="http://joxi.ru/uploads/prod/20130814/e55/3d3/1a2f6b3ff27dd84ac71cc946ee07f0b79aa6a75b.jpg">http://joxi.ru/uploads/prod/20130814/e55/3d3/1a2f6b3ff27dd84ac71cc946ee07f0b79aa6a75b.jpg</a>"></p>
 
 <p>Заполняете:</p>
 
@@ -41,11 +37,7 @@
 
 <p>&hellip;и жмете кнопку подключиться, усё. Приятного трепа.</p>
 
-<p>{% blockquote %}</p>
-
-<p>Также на джабер сервере jabber.ru существует конференция НОД Украина (<a href="&#x6d;&#97;&#x69;&#108;&#116;&#x6f;&#58;&#117;&#x6b;&#x72;&#x4e;&#x4f;&#x44;&#x40;&#x63;&#111;&#110;&#102;&#101;&#114;&#101;&#110;&#x63;&#101;&#46;&#106;&#x61;&#98;&#98;&#x65;&#114;&#x2e;&#x72;&#x75;">&#x75;&#107;&#114;&#78;&#79;&#x44;&#x40;&#x63;&#111;&#110;&#x66;&#x65;&#114;&#x65;&#x6e;&#x63;&#x65;&#x2e;&#x6a;&#x61;&#98;&#98;&#x65;&#x72;&#46;&#x72;&#x75;</a>), где вы можете свободно общаться 24/7 на любые волнующие вас темы с участниками НОД</p>
-
-<p>{% endblockquote %}</p>
+<p><blockquote><p></p></p><p><p>Также на джабер сервере jabber.ru существует конференция НОД Украина (<a href="&#109;&#97;&#x69;&#108;&#x74;&#111;&#58;&#x75;&#107;&#114;&#78;&#x4f;&#x44;&#64;&#x63;&#x6f;&#x6e;&#x66;&#101;&#x72;&#x65;&#110;&#x63;&#x65;&#x2e;&#106;&#x61;&#x62;&#x62;&#101;&#x72;&#x2e;&#114;&#117;">&#117;&#x6b;&#x72;&#78;&#x4f;&#x44;&#x40;&#x63;&#x6f;&#110;&#x66;&#101;&#x72;&#x65;&#x6e;&#x63;&#101;&#46;&#x6a;&#x61;&#x62;&#x62;&#x65;&#x72;&#46;&#114;&#x75;</a>), где вы можете свободно общаться 24/7 на любые волнующие вас темы с участниками НОД</p></p><p><p></p></blockquote></p>
 ]]></content>
   </entry>
   
