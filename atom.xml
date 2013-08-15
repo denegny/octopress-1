@@ -4,7 +4,7 @@
   <title><![CDATA[Jarto - Особиста сторінка]]></title>
   <link href="http://denegny.github.io/atom.xml" rel="self"/>
   <link href="http://denegny.github.io/"/>
-  <updated>2013-08-15T08:55:33+03:00</updated>
+  <updated>2013-08-15T09:02:08+03:00</updated>
   <id>http://denegny.github.io/</id>
   <author>
     <name><![CDATA[Jarto]]></name>
@@ -310,7 +310,7 @@
     <link href="http://denegny.github.io/blog/2013/07/01/liektsii-alieksieia-vasil%27ievicha-kholopova/"/>
     <updated>2013-07-01T18:23:00+03:00</updated>
     <id>http://denegny.github.io/blog/2013/07/01/liektsii-alieksieia-vasil&#8217;ievicha-kholopova</id>
-    <content type="html"><![CDATA[<h2>Лекция 1</h2>
+    <content type="html"><![CDATA[<h2>Лекция 1 <a href="http://pycode.ru/2012/10/infw/" title="Лекция 1">pycode.ru</a></h2>
 
 <h4>Тема лекции: &ldquo;Человек в условиях современной информационной агрессии&rdquo;:</h4>
 
@@ -323,8 +323,6 @@
 <li>Противодействие информационному насилию</li>
 </ol>
 
-
-<p><a href="http://pycode.ru/2012/10/infw/">http://pycode.ru/2012/10/infw/</a></p>
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/1B_5t656d4M" frameborder="0"allowfullscreen></iframe>
 
@@ -368,6 +366,8 @@
 <p><a href="http://pycode.ru/">http://pycode.ru/</a></p>
 
 <iframe width="640" height="360" src="http://www.youtube.com/embed/CDVaMWCJbxo" frameborder="0"allowfullscreen></iframe>
+
+
 
 ]]></content>
   </entry>
