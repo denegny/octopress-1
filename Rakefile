@@ -7,7 +7,7 @@ require "stringex"
 ssh_user       = "denegny@gmail.com"
 ssh_port       = "22"
 document_root  = "~/denegny.github.io/"
-rsync_delete   = true
+rsync_delete   = false
 rsync_args     = ""  # Any extra arguments to pass to rsync
 deploy_default = "push"
 

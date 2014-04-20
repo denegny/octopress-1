@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Категория: Колесников | Jarto - Особиста сторінка]]></title>
+  <link href="http://denegny.github.io/blog/categories/koliesnikov/atom.xml" rel="self"/>
+  <link href="http://denegny.github.io/"/>
+  <updated>2013-08-26T07:15:24+03:00</updated>
+  <id>http://denegny.github.io/</id>
+  <author>
+    <name><![CDATA[Jarto]]></name>
+    <email><![CDATA[denegny@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Боря прощай!]]></title>
+    <link href="http://denegny.github.io/blog/2013/07/26/boria-proshchai/"/>
+    <updated>2013-07-26T18:37:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/07/26/boria-proshchai</id>
+    <content type="html"><![CDATA[<p><img class="left img-rounded <a" src="href="http://s0.tchkcdn.com/g2-Jz5i1KWQ7JKq_VoPoyObDw/news/400x302/f/0/1/4/9/2/7492/kolesnikov4.jpg">http://s0.tchkcdn.com/g2-Jz5i1KWQ7JKq_VoPoyObDw/news/400x302/f/0/1/4/9/2/7492/kolesnikov4.jpg</a>" width="350" height="550"></p>
+
+<p>Вот, Боря, ты и <a href="http://www.pic.com.ua/kolesnikov-hovajetsya-u-moskvi-vid-hnivu-yanukovycha.html" title="Колестников прячется в Москве">допрыгался</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>

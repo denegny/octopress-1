@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Категория: Евро | Jarto - Особиста сторінка]]></title>
+  <link href="http://denegny.github.io/blog/categories/ievro/atom.xml" rel="self"/>
+  <link href="http://denegny.github.io/"/>
+  <updated>2013-08-26T07:15:24+03:00</updated>
+  <id>http://denegny.github.io/</id>
+  <author>
+    <name><![CDATA[Jarto]]></name>
+    <email><![CDATA[denegny@gmail.com]]></email>
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[{Евро}]]></title>
+    <link href="http://denegny.github.io/blog/2013/08/24/ievro/"/>
+    <updated>2013-08-24T02:58:00+03:00</updated>
+    <id>http://denegny.github.io/blog/2013/08/24/ievro</id>
+    <content type="html"><![CDATA[<p>Ну что же, друзья, я вернулся. Конец августа, подходит к концу жаркое лето и наступает период жарких баталий Евросоюза и Евразии в Украине. Много споров, разные мнения, много что не понятно, давайте разбираться.</p>
+
+<p>Surround your pullquote like this {" text to be quoted "}</p>
+
+<p>Surround your pullquote like this {" text to be quoted "}</p>
+]]></content>
+  </entry>
+  
+</feed>
