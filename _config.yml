@@ -70,7 +70,9 @@ navigation:
 - text: Люди
   url: /liudi/index.html
 - text: Думы
-  url: /dumy/index.html    
+  url: /dumy/index.html
+- text: Резюме
+  url: /resume/index.html       
 
 # ----------------------- #
 #   3rd Party Settings    #
