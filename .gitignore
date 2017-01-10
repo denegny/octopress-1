@@ -15,7 +15,6 @@ node_modules
 .ruby-gemset
 .ruby-version
 
-_site/
-_site/*.*
-
 .jekyll-metadata
+
+.idea/*.*
