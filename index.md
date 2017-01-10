@@ -2,4 +2,4 @@
 layout: home
 ---
 
-{% include free-programming-books/free-courses-en.md %}
+{% include fpb/free-courses-en.md %}
