@@ -1,6 +1,6 @@
 ---
 layout: page
-title: В кратце
+title: Подробнее
 permalink: /about/
 feature-img: "assets/img/sample_feature_img_2.png"
 ---
