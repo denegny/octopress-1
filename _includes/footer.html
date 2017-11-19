@@ -2,9 +2,11 @@
 <script src="{{ "/assets/js/katex_init.js" | relative_url }}"></script>
 {% endif %}
 
-{% if site.theme_settings.footer_text || if site.theme_settings.github %}
+{% if site.theme_settings.footer_text || site.theme_settings.github %}
 <footer class="site-footer">
 	<p class="text">{{ site.theme_settings.footer_text }}</p>
-	<a href="https://github.com/{{site.theme_settings.github}}/{{site.theme_settings.github}}.github.io/issues/new">Замечания по сайту и переводу статей</a>
+	{% if site.theme_settings.github %}
+	  <a href="https://github.com/{{site.theme_settings.github}}/{{site.theme_settings.github}}.github.io/issues/new">Замечания по сайту и переводу статей</a>
+	  {% endif %}  
 </footer>
 {% endif %}
