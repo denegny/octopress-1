@@ -7,11 +7,11 @@ tags: [Elixir, Перевод]
 author: "Vitaly Tatarintsev (ck3g)"
 ---
 
-Erlang поддерживает философию "Пусть что-то пойдет не так" (или быстрого сбоя). Первое объяснение, что нет необходимости писать программы думая о надежности. Еще идея заключается в том, что если программа ожидает отказа, возможно это еще не катастрофа всего приложения :). 
+Эрланг поддерживает философию "Пусть что-то пойдет не так" (или быстрого отказа). Первое объяснение, что нет необходимости писать программы думая о надежности. Еще идея заключается в том, что если программа ожидает отказа, возможно это еще не катастрофа всего приложения :). 
 
-Хочется упомянуть [Joe Armstrong](https://en.wikipedia.org/wiki/Joe_Armstrong_(programming)), который является основным изобретателем языка Erlang. Эту цитату нашел на [Fail Fast](http://wiki.c2.com/?FailFast) странице:
+Хочется упомянуть [Джо Амстронга](https://en.wikipedia.org/wiki/Joe_Armstrong_(programming)), который является основным изобретателем языка Эрланг. Его цитата находится на странице о [быстром отказе](http://wiki.c2.com/?FailFast) :
 
-> The FailFast philosophy is central to the ErlangLanguage - the Erlang motto is "just fail" and "let some other process do the error recovery" - this has been used in very reliable production systems with millions of lines of code -- JoeArmstrong
+> Философия "быстрого отказа" занимает центральное место в языке Эрланг - девиз Эрланга "это всего лишь отказ" и "разреши другому процессу выполнить восстановление после ошибки" - было использовано в очень надежных производственных системах с миллионами строк кода -- Джо Амстронг
 
 Elixir also shares a philosophy that errors ought to be fatal and exceptions are intended for things that normally should never happen. Usually, in Elixir applications, exceptions are thrown but rarely caught.
 
