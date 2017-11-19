@@ -7,11 +7,9 @@ tags: [Elixir, Перевод]
 author: "Vitaly Tatarintsev (ck3g)"
 ---
 
-Erlang endorses the "Let it fail" (or "Fail Fast") philosophy.
-The quick explanation would be that there is no need to write your programs in a defensive way.
-The idea is also that if your program expects particular crash to happen, then maybe it is not a crash.
+Erlang поддерживает философию "Пусть что-то пойдет не так" (или быстрого сбоя). Первое объяснение, что нет необходимости писать программы думая о надежности. Еще идея заключается в том, что если программа ожидает отказа, возможно это еще не катастрофа всего приложения :). 
 
-Here I would also like to quote [Joe Armstrong](https://en.wikipedia.org/wiki/Joe_Armstrong_(programming)), who is the main inventor of Erlang language. I've found this quote on the [Fail Fast](http://wiki.c2.com/?FailFast) page:
+Хочется упомянуть [Joe Armstrong](https://en.wikipedia.org/wiki/Joe_Armstrong_(programming)), который является основным изобретателем языка Erlang. Эту цитату нашел на [Fail Fast](http://wiki.c2.com/?FailFast) странице:
 
 > The FailFast philosophy is central to the ErlangLanguage - the Erlang motto is "just fail" and "let some other process do the error recovery" - this has been used in very reliable production systems with millions of lines of code -- JoeArmstrong
 
