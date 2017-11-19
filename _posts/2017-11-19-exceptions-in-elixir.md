@@ -13,7 +13,7 @@ author: "Vitaly Tatarintsev (ck3g)"
 
 > Философия "быстрого отказа" занимает центральное место в языке Эрланг - девиз Эрланга "это всего лишь сбой" и "разреши другому процессу выполнить восстановление после ошибки" - было использовано в очень надежных производственных системах с миллионами строк кода -- Джо Амстронг
 
-Elixir also shares a philosophy that errors ought to be fatal and exceptions are intended for things that normally should never happen. Usually, in Elixir applications, exceptions are thrown but rarely caught.
+Эликсир также разделяет философию, что ошибки должны быть фатальными, а исключения предназначены для вещей, которые обычно никогда не должны происходить. Обычно в приложениях на Эликсир исключения выбрасываются, но иногда попадаются.
 
 That does not mean, that you should ignore them completely. As soon as Elixir application usually consists of multiple processes, you may let them (processes) crash. Also, you should design your application in the way, that even if a process fails you application still keeps running. Of course crashed processes can have unfinished work, but you can design your application in a way to minimize these cases.
 
@@ -131,8 +131,9 @@ General failure: Something special went wrong
 :ok
 ```
 
-## Summary
+## Подведем итоги
 
-That finishes the introduction to Exceptions in Elixir. Now we know how to raise and handle several types of exceptions and how to define our own.
+На этом мы заканчиваем введение в обработку исключений на Эликсире. Теперь мы знаем, как вызывать и обрабатывать несколько типов исключений и как определять свои собственные. 
 
 [Источник](http://whatdidilearn.info/2017/11/19/exceptions-in-elixir.html)
+[Замечания по сайту и переводу статей]({{ site.baseurl }}/issues/new)
