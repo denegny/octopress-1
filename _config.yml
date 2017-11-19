@@ -5,7 +5,7 @@ url: "https://denegny.github.io/"
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Ruby Elixir blog
+  title: Ruby Elixir публикации
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
   gravatar: 09ab214ea9d46dabecee5410e0635ef3 # Email MD5 hash
@@ -34,7 +34,7 @@ theme_settings:
   instagram:
   linkedin:  # Full URL
   pinterest:
-  reddit:
+  reddit: "denegny"
   soundcloud:
   stack_exchange:  # Full URL
   steam:
