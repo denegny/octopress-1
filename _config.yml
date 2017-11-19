@@ -29,7 +29,7 @@ theme_settings:
   facebook:
   flickr:
   gitlab:
-  github: "denegny"
+  github: #"denegny"
   google_plus:
   instagram:
   linkedin:  # Full URL
