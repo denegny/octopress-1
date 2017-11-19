@@ -5,7 +5,6 @@ desc: "Learn the Erlang's Let if fail pholosophy and how to work with exceptions
 keywords: "Elixir, exceptions, fail fast, let it fail, raise, throw, try, rescue, catch, error"
 tags: [Elixir, Перевод]
 ---
-[Источник](http://whatdidilearn.info/2017/11/19/exceptions-in-elixir.html)
 
 Erlang endorses the "Let it fail" (or "Fail Fast") philosophy.
 The quick explanation would be that there is no need to write your programs in a defensive way.
@@ -136,3 +135,5 @@ General failure: Something special went wrong
 ## Summary
 
 That finishes the introduction to Exceptions in Elixir. Now we know how to raise and handle several types of exceptions and how to define our own.
+
+[Источник](http://whatdidilearn.info/2017/11/19/exceptions-in-elixir.html)
