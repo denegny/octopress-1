@@ -16,7 +16,7 @@ theme_settings:
      <p>Изучение двух языков Elixir и Ruby.</p>
 
      <p>А так же всего что связано с экосистемой этих языков - Phoenix, Rails, Hanami и Erlang(OTP).</p>
-  header_text_feature_image:
+  header_text_feature_image: github
   footer_text: >
    Создано на <a href="https://jekyllrb.com/">Jekyll</a> с <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
