@@ -17,11 +17,11 @@ author: "Vitaly Tatarintsev (ck3g)"
 
 That does not mean, that you should ignore them completely. As soon as Elixir application usually consists of multiple processes, you may let them (processes) crash. Also, you should design your application in the way, that even if a process fails you application still keeps running. Of course crashed processes can have unfinished work, but you can design your application in a way to minimize these cases.
 
-Now, after a short introduction, let's take a look what do we have here.
+Теперь, после краткого введения, давайте посмотрим, что у нас есть.
 
-### raise/rescue
+### Конструкция raise/rescue
 
-At first, we can raise an exception using `raise/1` function:
+Для начала, мы можем вызвать исключение используя функцию `raise/1` :
 
 ```elixir
 iex> raise "Something went wrong"
@@ -53,7 +53,7 @@ iex> try do
 "Error!!!"
 ```
 
-### after
+### Последовательность after
 
 There is also `after` block available for us. It will be executed as a final step regardless of raised exception or not.
 
@@ -72,7 +72,7 @@ Cleaning up...
 You can use `after` for clean up operations, closing open files or any other termination tasks.
 
 
-### throw/catch
+### Методы throw/catch
 
 In Elixir there is a way to `throw` a value and then `catch` it later. Unlike `raise` you cannot `rescue` a value thrown earlier. So it has to be `catch`.
 
@@ -101,7 +101,7 @@ Cleaning up...
 Similar to throw some processes can [exit/1](https://hexdocs.pm/elixir/Kernel.html#exit/1) or have an `:erlang.error/1`.
 They both can be caught similar to `throw`.
 
-### Defining custom exceptions
+### Определим собственные исключения
 
 The same way as we define [Structs](http://whatdidilearn.info/2017/11/06/more-on-maps-and-structs-in-elixir.html#structs) we can define our own exceptions by using `defmodule` + `defexception`. It is also possible to define custom functions as we did with Structures.
 
