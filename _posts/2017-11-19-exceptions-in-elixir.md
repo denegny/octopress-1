@@ -4,6 +4,7 @@ title: "Exceptions in Elixir"
 desc: "Learn the Erlang's Let if fail pholosophy and how to work with exceptions in Elixir."
 keywords: "Elixir, exceptions, fail fast, let it fail, raise, throw, try, rescue, catch, error"
 tags: [Elixir, Перевод]
+author: "Vitaly Tatarintsev (ck3g)"
 ---
 
 Erlang endorses the "Let it fail" (or "Fail Fast") philosophy.
