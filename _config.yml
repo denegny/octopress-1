@@ -1,15 +1,15 @@
 # SITE CONFIGURATION
 baseurl: "/type-theme"
-url: "https://rohanchandra.github.io/"
+url: "https://denegny.github.io/"
 
 # THEME-SPECIFIC CONFIGURATION
 theme_settings:
   # Meta
-  title: Type Theme
+  title: Ruby Elixir blog
   avatar: assets/img/avatar.png
   favicon: assets/favicon.ico
-  gravatar: # Email MD5 hash
-  description: "A website with blog posts and pages" # used by search engines
+  gravatar: 09ab214ea9d46dabecee5410e0635ef3 # Email MD5 hash
+  description: "исследуем Ruby и Elixir вместе" # used by search engines
 
   # Header and footer text
   header_text: >
@@ -21,15 +21,15 @@ theme_settings:
    Powered by <a href="https://jekyllrb.com/">Jekyll</a> with <a href="https://github.com/rohanchandra/type-theme">Type Theme</a>
 
   # Icons
-  rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  rss: true
+  email_address: "denegny@gmail.com" # Full email address, e.g. "sam@example.com"
   behance:
   bitbucket:
   dribbble:
   facebook:
   flickr:
   gitlab:
-  github: "rohanchandra/type-theme"
+  github: "denegny/type-theme"
   google_plus:
   instagram:
   linkedin:  # Full URL
@@ -39,7 +39,7 @@ theme_settings:
   stack_exchange:  # Full URL
   steam:
   tumblr:
-  twitter: "twitter"
+  twitter: "denegny"
   wordpress:
   youtube:
 
@@ -47,19 +47,19 @@ theme_settings:
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
   disqus_shortname:
   katex: true # Enable if using math markup
-  search: false # Enable the search feature
+  search: true # Enable the search feature
 
   # Localization strings
-  str_follow_on: "Follow on"
-  str_rss_follow: "Follow RSS feed"
+  str_follow_on: "Будь в курсе!" #"Follow on"
+  str_rss_follow: "RSS для гурманов" #"Follow RSS feed"
   str_email: "Email"
-  str_next_post: "Next post"
-  str_previous_post: "Previous post"
-  str_next_page: "Next"
-  str_previous_page: "Prev"
-  str_continue_reading: "Continue reading"
-  str_javascript_required_disqus: "Please enable JavaScript to view comments."
-  str_search_no_results: "No results found."
+  str_next_post: "Следующий..." #"Next post"
+  str_previous_post: "Предыдущий..." #"Previous post"
+  str_next_page: "Вперед" #"Next"
+  str_previous_page: "Назад" #"Prev"
+  str_continue_reading: "Продолжить втыкать" #"Continue reading"
+  str_javascript_required_disqus: "наши комментарии любят JS" #"Please enable JavaScript to view comments."
+  str_search_no_results: "ни чем не могу помочь :(" #"No results found."
 
   # Colours, typography and padding
   # Open the "_sass > base" folder, and open "_variables.scss"
