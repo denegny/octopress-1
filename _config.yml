@@ -42,6 +42,7 @@ theme_settings:
   twitter: "denegny"
   wordpress:
   youtube:
+  vkontakte: "denegny"
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
