@@ -58,7 +58,7 @@ theme_settings:
   str_previous_post: "Предыдущий..." #"Previous post"
   str_next_page: "Вперед" #"Next"
   str_previous_page: "Назад" #"Prev"
-  str_continue_reading: "Продолжить втыкать" #"Continue reading"
+  str_continue_reading: "Продолжить..." #"Continue reading"
   str_javascript_required_disqus: "наши комментарии любят JS" #"Please enable JavaScript to view comments."
   str_search_no_results: "ни чем не могу помочь :(" #"No results found."
 
